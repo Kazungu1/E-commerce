@@ -99,7 +99,7 @@ export const DataProvider = (props) => {
       title: "Wacth Product 06",
       images: [
         "https://riogiftshop.com/wp-content/uploads/2021/04/1ff54b59-9e47-4dae-8ba7-670fccfc6592.jpg",
-        // "https://www.upsieutoc.com/images/2020/07/18/img2.jpg",
+        "https://riogiftshop.com/wp-content/uploads/2021/04/1ff54b59-9e47-4dae-8ba7-670fccfc6592.jpg",
         // "https://www.upsieutoc.com/images/2020/07/18/img3.jpg",
         // "https://www.upsieutoc.com/images/2020/07/18/img4.jpg",
       ],
