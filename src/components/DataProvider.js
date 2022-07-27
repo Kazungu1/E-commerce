@@ -9,9 +9,7 @@ export const DataProvider = (props) => {
       title: "Wacth Product 01",
       images: [
         "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/56/019703/1.jpg?3097",
-        // "https://www.upsieutoc.com/images/2020/07/18/img2.jpg",
-        // "https://www.upsieutoc.com/images/2020/07/18/img3.jpg",
-        // "https://www.upsieutoc.com/images/2020/07/18/img4.jpg",
+     
       ],
       description:
         "How to and tutorial videos of cool CSS effect, Web Design ideas,JavaScript libraries, Node.",
@@ -27,9 +25,7 @@ export const DataProvider = (props) => {
       title: "Wacth Product 02",
       images: [
         "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/73/495775/1.jpg?3074",
-        // "https://www.upsieutoc.com/images/2020/07/18/img1.jpg",
-        // "https://www.upsieutoc.com/images/2020/07/18/img3.jpg",
-        // "https://www.upsieutoc.com/images/2020/07/18/img4.jpg",
+   
       ],
       description:
         "How to and tutorial videos of cool CSS effect, Web Design ideas,JavaScript libraries, Node.",
@@ -45,9 +41,7 @@ export const DataProvider = (props) => {
       title: "Wacth Product 03",
       images: [
         "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/74/294983/1.jpg?1769",
-        // "https://www.upsieutoc.com/images/2020/07/18/img2.jpg",
-        // "https://www.upsieutoc.com/images/2020/07/18/img1.jpg",
-        // "https://www.upsieutoc.com/images/2020/07/18/img4.jpg",
+     
       ],
       description:
         "How to and tutorial videos of cool CSS effect, Web Design ideas,JavaScript libraries, Node.",
@@ -63,9 +57,7 @@ export const DataProvider = (props) => {
       title: "Wacth Product 04",
       images: [
         "https://ke.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/76/885207/1.jpg?2119",
-        // "https://www.upsieutoc.com/images/2020/07/18/img2.jpg",
-        // "https://www.upsieutoc.com/images/2020/07/18/img3.jpg",
-        // "https://www.upsieutoc.com/images/2020/07/18/img1.jpg",
+     
       ],
       description:
         "How to and tutorial videos of cool CSS effect, Web Design ideas,JavaScript libraries, Node.",
@@ -81,9 +73,7 @@ export const DataProvider = (props) => {
       title: "Wacth Product 05",
       images: [
         "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/41/668275/1.jpg?9536",
-        // "https://www.upsieutoc.com/images/2020/07/18/img2.jpg",
-        // "https://www.upsieutoc.com/images/2020/07/18/img3.jpg",
-        // "https://www.upsieutoc.com/images/2020/07/18/img4.jpg",
+   
       ],
       description:
         "How to and tutorial videos of cool CSS effect, Web Design ideas,JavaScript libraries, Node.",
@@ -100,8 +90,7 @@ export const DataProvider = (props) => {
       images: [
         "https://riogiftshop.com/wp-content/uploads/2021/04/1ff54b59-9e47-4dae-8ba7-670fccfc6592.jpg",
         "https://riogiftshop.com/wp-content/uploads/2021/04/1ff54b59-9e47-4dae-8ba7-670fccfc6592.jpg",
-        // "https://www.upsieutoc.com/images/2020/07/18/img3.jpg",
-        // "https://www.upsieutoc.com/images/2020/07/18/img4.jpg",
+       
       ],
       description:
         "How to and tutorial videos of cool CSS effect, Web Design ideas,JavaScript libraries, Node.",
