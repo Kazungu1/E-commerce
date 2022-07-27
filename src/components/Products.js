@@ -20,7 +20,7 @@ export default function Products() {
                             <Link to={`/products/${product._id}`}>{product.title}</Link>
                         </h3>
                         <p>{product.description}</p>
-                        <h4>${product.price}</h4>
+                        <h4>Ksh {product.price}</h4>
                         <button onClick={() => addCart(product._id)}>
                             Add to cart
                         </button>

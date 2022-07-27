@@ -53,7 +53,7 @@ export default function Details() {
               className="cart"
               onClick={() => addCart(product._id)}
             >
-              Add to cart
+              Add to Wallet
             </Link>
           </div>
         </div>
