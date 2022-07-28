@@ -49,7 +49,7 @@ export default function Cart() {
 
   if (cart.length === 0)
     return (
-      <h2 style={{ textAlign: "center", fontSize: "5rem" }}>Cart Empty</h2>
+      <h2 style={{ textAlign: "center", fontSize: "5rem" }}>Please select an Item</h2>
     );
 
   return (
@@ -63,7 +63,7 @@ export default function Cart() {
 
           <div className="box-details">
             <h2 title={product.title}>{product.title}</h2>
-            <h3>${product.price}</h3>
+            <h3>Ksh. {product.price}</h3>
 
             <p>{product.description}</p>
 

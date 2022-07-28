@@ -43,9 +43,9 @@ export default function Details() {
           <div className="box-details">
             <h2 title={product.title}>{product.title}</h2>
             <h3>Ksh {product.price}</h3>
-           
+
             <p>{product.description}</p>
-            
+
             <DetailsThumb images={product.images} setIndex={setIndex} />
             <Link
               to="/cart"

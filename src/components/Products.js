@@ -20,7 +20,7 @@ export default function Products() {
             </h3>
             <p>{product.description}</p>
             <h4>Ksh {product.price}</h4>
-            <button onClick={() => addCart(product._id)}>Add to cart</button>
+            <button onClick={() => addCart(product._id)}>Buy Now</button>
           </div>
         </div>
       ))}
