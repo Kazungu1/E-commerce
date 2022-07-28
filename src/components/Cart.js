@@ -80,7 +80,7 @@ export default function Cart() {
             </div>
 
             <div className="delete" onClick={() => removeProduct(product._id)}>
-              X
+              Remove Item
             </div>
           </div>
         </div>

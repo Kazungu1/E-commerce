@@ -65,7 +65,6 @@ export const DataProvider = (props) => {
       title: "Generic WINNER Men's Watch Fashion Luminous Hands Gear Movement",
       images: [
         "https://riogiftshop.com/wp-content/uploads/2021/04/1ff54b59-9e47-4dae-8ba7-670fccfc6592.jpg",
-        "https://riogiftshop.com/wp-content/uploads/2021/04/1ff54b59-9e47-4dae-8ba7-670fccfc6592.jpg",
       ],
       description:
         "This watch with classic luxury retro design will give you an extraordinary artistic beauty.",
