@@ -42,18 +42,17 @@ export default function Details() {
 
           <div className="box-details">
             <h2 title={product.title}>{product.title}</h2>
-            <h3>${product.price}</h3>
-            <Colors colors={product.colors} />
-            <Sizes sizes={product.sizes} />
+            <h3>Ksh {product.price}</h3>
+           
             <p>{product.description}</p>
-            <p>{product.content}</p>
+            
             <DetailsThumb images={product.images} setIndex={setIndex} />
             <Link
               to="/cart"
               className="cart"
               onClick={() => addCart(product._id)}
             >
-              Add to Wallet
+              Add to cart
             </Link>
           </div>
         </div>

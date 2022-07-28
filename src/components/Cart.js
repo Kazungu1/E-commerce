@@ -64,10 +64,8 @@ export default function Cart() {
           <div className="box-details">
             <h2 title={product.title}>{product.title}</h2>
             <h3>${product.price}</h3>
-            <Colors colors={product.colors} />
-            <Sizes sizes={product.sizes} />
+
             <p>{product.description}</p>
-            <p>{product.content}</p>
 
             <div className="amount">
               <button className="count" onClick={() => reduction(product._id)}>
@@ -89,7 +87,6 @@ export default function Cart() {
       ))}
 
       <div className="total">
-        <Link to="/payment">Payment</Link>
         <h3>Total: Ksh {total}</h3>
       </div>
     </>

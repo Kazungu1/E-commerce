@@ -30,13 +30,10 @@ export default function Header() {
         </h1>
       </div>
       <ul style={styleMenu}>
-        {/* <li><Link to="/">Home</Link></li> */}
         <li>
           <Link to="/products">Items</Link>
         </li>
-        {/* <li><Link to="/">About</Link></li> */}
-        {/* <li><Link to="/">Contact</Link></li> */}
-        {/* <li><Link to="/">Login / Register</Link></li> */}
+
         <li onClick={toggleMenu}>
           <img src={Close} alt="" width="30" className="menu" />
         </li>
