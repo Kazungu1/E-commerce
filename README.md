@@ -12,7 +12,7 @@ This is a web application that displays men's wear specifically and allows them 
 
 ## SCREENSHOT
 
--![Screenshot from 2022-07-28 15-53-46](https://user-images.githubusercontent.com/51753883/181514819-21860417-2fb3-47bb-bd6b-24c615f719f0.png)
+
 
 
 -
