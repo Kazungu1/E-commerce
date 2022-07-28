@@ -28,6 +28,7 @@ header {
   width: 100%;
   min-height: 100px;
   overflow: hidden;
+  font-family: Georgia, 'Times New Roman', Times, serif;
   display: flex;
   justify-content: space-around;
   align-items: center;
@@ -42,6 +43,8 @@ a {
   text-transform: uppercase;
   color: #555;
   letter-spacing: 2px;
+  font-size: large;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 a:hover {

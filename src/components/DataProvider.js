@@ -6,7 +6,7 @@ export const DataProvider = (props) => {
   const [products, setProducts] = useState([
     {
       _id: "1",
-      title: "Fashion Men's Sneakers Shoes",
+      title: "Men's Sneakers Shoes",
       images: [
         "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/56/019703/1.jpg?3097",
         // description: "Simple business shoulder bag for men Type: Shoulder bag Casual style Gender: Men Closure Type: Zipper Occasion: Multifunctional Main material: artificial leather "
@@ -18,9 +18,9 @@ export const DataProvider = (props) => {
     },
     {
       _id: "2",
-      title: "Fashion Men's Shoulder Bag-Brown",
+      title: " Men's Shoulder Bag-Brown",
       images: [
-        "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/73/495775/1.jpg?3074",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvktzEo3rpSylrSCA1BtYtv7F50cCMCDb2AQ&usqp=CAU",
       ],
       description:
         "Simple business shoulder bag for men Type: Shoulder bag Casual style Gender: Men Closure Type: Zipper Occasion: Multifunctional Main material: artificial leather ",
@@ -29,9 +29,9 @@ export const DataProvider = (props) => {
     },
     {
       _id: "3",
-      title: "Fashion 4 Pcs Men Khaki Trouser Stretch Slim Fit",
+      title: "4 Pcs Men Khaki Trouser ",
       images: [
-        "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/74/294983/1.jpg?1769",
+        "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/75/18825/1.jpg?7578",
       ],
       description:
         "This trouser is Stretching and breathable hence easier movement. Men Fashion-plus Offers the Best Price for this BluePerfect Quality.",
@@ -40,7 +40,7 @@ export const DataProvider = (props) => {
     },
     {
       _id: "4",
-      title: "Fashion Men Short Sleeve Polo Shirt",
+      title: "Men Short Sleeve Polo Shirt",
       images: [
         "https://ke.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/76/885207/1.jpg?2119",
       ],
@@ -51,9 +51,9 @@ export const DataProvider = (props) => {
     },
     {
       _id: "5",
-      title: "Fashion Pure Leather Double Sided",
+      title: "Pure Leather Belt Double Sided",
       images: [
-        "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/41/668275/1.jpg?9536",
+        "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/93/634565/1.jpg?6340",
       ],
       description:
         "Well well well to all those who are looking for a new exiting look,well look no further",
@@ -62,9 +62,9 @@ export const DataProvider = (props) => {
     },
     {
       _id: "6",
-      title: "Generic WINNER Men's Watch Fashion Luminous Hands Gear Movement",
+      title: "Men's Watch Hands Gear Movement",
       images: [
-        "https://riogiftshop.com/wp-content/uploads/2021/04/1ff54b59-9e47-4dae-8ba7-670fccfc6592.jpg",
+        "https://ke.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/82/780264/1.jpg?3411",
       ],
       description:
         "This watch with classic luxury retro design will give you an extraordinary artistic beauty.",
